@@ -71,13 +71,7 @@
 }
 
 .project h3 {
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  padding: var(--m);
-  padding-bottom: var(--xxl);
-  background-image: linear-gradient(rgba(0 0 0 / 50%), rgba(0 0 0 / 0%));
+  /* TODO: Headline soll oben links auf dem Bild positioniert sein und einen dunklen Abdecker haben */
   color: var(--lightest);
   text-shadow: var(--shadow-m);
 }
