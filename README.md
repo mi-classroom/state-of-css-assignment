@@ -4,8 +4,10 @@ Das Assignment nutzt einige Konzepte und Techniken aus dem Workshop [State of CS
 
 ## Was gibt es zu tun?
 
-In dieser Aufgabe soll vor allem CSS Grid & Subgrid genutzt werden, um möglichst nah an die Layouts (->_stuff) heran zu kommen. In der *layout.css* und *components.css* sind entsprechende ToDos markiert. Nicht alles lässt sich via CSS Grid & Subgrid lösen, sondern auch andere Konzepte kommen zum Einsatz.
+In dieser Aufgabe sollen vor allem CSS Grid & Subgrid genutzt werden, um möglichst nah an die Layouts (->_stuff) heran zu kommen. In der *layout.css* und *components.css* sind entsprechende ToDos markiert. Nicht alles lässt sich via CSS Grid & Subgrid lösen, sondern auch andere Konzepte kommen zum Einsatz.
 
 Weiterhin sollte überlegt und evalusiert werden, inwieweit sich das Markup verschlanken ließe ohne an semantischer Reichhaltigkeit und Layouttreue zu verlieren.
+
+Nutzen Sie bitte dieses [Classroom Assignment](https://classroom.github.com/a/CN_5aE-S) für die Aufgabe.
 
 
